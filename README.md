@@ -1,2 +1,2 @@
-# react-lib-number
-Biblioteca react que inverte o numero por extenso.
+# react-input-number
+Componente React que inverte o número por extenso.
