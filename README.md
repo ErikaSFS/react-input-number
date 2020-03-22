@@ -1,4 +1,4 @@
-# react-input-number
+# React Input Number
 Componente React que inverte o número por extenso.
 
 
@@ -11,6 +11,8 @@ Abaixo as formas de como instalar essa biblioteca utilizando o npm ou yarn:
 npm install react-input-por-extenso
 ### ou
 yarn add react-input-por-extenso
+
+
 
 ## Como usar
 Uma forma básica de como utilizar o componente:
@@ -42,4 +44,5 @@ ReactDOM.render(<App />, document.getElementById("root"));
 Esse componente é uma abstração de um componente input do tipo numérico, todas as propriedades de um input estão disponíveis.
 
 ###Propriedade	 ###Valor inicial 	###Tipo	  ###Descrição
+
 tipoExtenso |	        normal	      |string|	  Formato de extensão do número
